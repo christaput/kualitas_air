@@ -2,4 +2,5 @@ numpy==1.26.4
 pandas==2.2.2
 streamlit
 scikit-learn
+catboost==1.2.7
 pip==23.2.1
